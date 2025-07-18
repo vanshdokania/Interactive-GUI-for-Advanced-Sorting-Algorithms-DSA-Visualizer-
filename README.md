@@ -17,3 +17,7 @@ Interactive PyGame-based GUI to visualize popular and advanced sorting algorithm
 
 ## Why Use This Visualizer?
 It makes understanding sorting algorithms easier by visually demonstrating element movements, comparisons, and sorting progression in real time.
+
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Vansh Dokania.
